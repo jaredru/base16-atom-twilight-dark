@@ -1,0 +1,15 @@
+{
+  "name": "base16-twilight-dark",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "base16 Twilight Dark",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/jaredru/base16-atom-twilight-dark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
